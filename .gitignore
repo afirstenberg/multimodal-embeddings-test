@@ -1,0 +1,7 @@
+
+/.idea/
+/*.iml
+/src/embeddings.json
+/src/similarity.tsv
+/src/timings.tsv
+node_modules
